@@ -2,8 +2,8 @@ import os
 import subprocess as sp
 
 paths = {
-    'notepad': "C:\\Windows\\notepad.exe",
-    'calculator': "C:\\Windows\\System32\\calc.exe"
+    'notepad': "C:\\notepad_path",
+    'calculator': "C:\\calculator_path"
 }
 
 # To open Camera
